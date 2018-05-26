@@ -1,2 +1,2 @@
 # Python-Bible
-Project from Python Bible 
+Projects from Python Bible 
